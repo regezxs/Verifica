@@ -2,140 +2,133 @@
 
 > **Antes de compartilhar, verifique.**
 
-Uma plataforma educativa e interativa criada para ajudar pessoas a reconhecer **golpes digitais, deepfakes, conteúdos manipulados por IA e desinformação**.
-
----
+![Status](https://img.shields.io/badge/status-concluído-2ECC71)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📌 Sobre o projeto
 
-O **VERIFICA** nasceu de um problema cada vez mais presente na sociedade: a dificuldade de identificar conteúdos falsos, golpes e manipulações digitais.
+O **VERIFICA** é um projeto web educativo desenvolvido para promover **segurança digital e cidadania digital**.
 
-Com o avanço da Inteligência Artificial, imagens, vídeos, áudios e mensagens falsas podem se tornar cada vez mais convincentes.
+A proposta é ajudar usuários a reconhecer golpes, analisar informações suspeitas, identificar possíveis conteúdos manipulados por Inteligência Artificial e adotar hábitos mais seguros antes de compartilhar informações.
 
-A proposta do projeto é transformar conceitos de **segurança e cidadania digital** em uma experiência simples, educativa e interativa.
-
-### 🎯 Objetivo
-
-Ajudar o usuário a:
-
-- 🔎 Identificar sinais de conteúdos suspeitos;
-- 🧠 Desenvolver pensamento crítico;
-- 🛡️ Reconhecer possíveis golpes digitais;
-- 🤖 Entender os riscos relacionados ao uso de IA;
-- 📱 Utilizar a internet de forma mais segura.
+> **Identifique → Analise → Verifique → Proteja → Compartilhe com responsabilidade.**
 
 ---
 
 ## 🚨 O problema
 
-Todos os dias, pessoas recebem mensagens, links, imagens, vídeos e ofertas que podem esconder tentativas de golpe ou informações falsas.
+Golpes digitais, desinformação, phishing, deepfakes e conteúdos gerados por Inteligência Artificial estão cada vez mais presentes no cotidiano.
 
-Alguns exemplos:
+Muitas pessoas recebem mensagens suspeitas diariamente, mas não sabem quais sinais observar antes de clicar, responder ou compartilhar.
 
-- Phishing;
-- Golpes por WhatsApp;
-- Falsos pedidos de PIX;
-- Perfis falsos;
-- Links maliciosos;
-- Deepfakes;
-- Conteúdos gerados por IA;
-- Notícias e informações manipuladas.
-
-O **VERIFICA** busca contribuir para que o usuário pense antes de clicar, compartilhar ou tomar uma decisão.
+O VERIFICA surgiu como uma forma simples e interativa de transformar conceitos de segurança digital em situações práticas do dia a dia.
 
 ---
 
 ## 💡 A solução
 
-A plataforma utiliza conteúdos educativos e interações para ensinar um processo simples:
+O projeto apresenta informações de forma **visual, simples e interativa**, permitindo que o usuário aprenda enquanto navega pelo site.
 
-```text
-🔎 IDENTIFICAR
-      ↓
-🧠 ANALISAR
-      ↓
-✅ VERIFICAR
-      ↓
-🛡️ PROTEGER
-      ↓
-📢 COMPARTILHAR COM RESPONSABILIDADE
-```
+A experiência foi pensada principalmente para:
+
+- 👩‍🎓 Estudantes
+- 📱 Usuários de redes sociais e WhatsApp
+- 👨‍👩‍👧 Famílias
+- 👩‍🏫 Educadores
+- 💻 Pessoas com pouca familiaridade com tecnologia
 
 ---
 
 ## ✨ Funcionalidades
 
-### 🧠 Quiz
+### 🏠 Landing Page
 
-Situações simuladas para testar o conhecimento do usuário sobre segurança digital.
+Apresentação do projeto, sua proposta e chamada para conhecer os conteúdos.
 
-### 🔎 Encontre os sinais
+### 🔎 Como funciona
 
-O usuário deve identificar elementos suspeitos presentes em mensagens e situações.
+Explicação do processo de verificação:
+
+1. **Identifique** — perceba sinais de alerta.
+2. **Analise** — observe a mensagem, link ou conteúdo.
+3. **Verifique** — procure informações confiáveis.
+4. **Proteja-se** — evite compartilhar dados ou realizar ações precipitadas.
+
+### 📊 Dados reais
+
+O projeto apresenta dados relacionados a golpes digitais, aplicativos de mensagens e conteúdos falsos ou manipulados por IA.
+
+### 💬 Simulador de golpes
+
+O usuário recebe uma situação inspirada em golpes comuns e precisa decidir qual seria a atitude mais segura.
 
 ### 🤖 IA e Deepfakes
 
-Conteúdos educativos explicando como a Inteligência Artificial pode ser utilizada para criar ou manipular informações.
+Conteúdo educativo sobre:
 
-### 📊 Dados
+- Deepfakes
+- Clonagem de voz
+- Imagens manipuladas
+- Conteúdo gerado por IA
+- Importância da verificação de contexto
 
-Apresentação de dados e informações sobre golpes e segurança digital.
+### 🧠 Quiz interativo
 
-### 🚨 O que fazer?
+Quiz com **10 perguntas** sobre segurança digital.
 
-Orientações básicas sobre como agir diante de uma possível tentativa de golpe.
+O usuário recebe:
 
-### 🏆 Sistema de pontuação
+- Pontuação
+- Progresso
+- Feedback das respostas
+- Explicações
+- Classificação final
 
-O usuário recebe uma pontuação de acordo com seu desempenho nas atividades.
+### 🛡️ Prevenção
 
----
-
-## 👥 Público-alvo
-
-O projeto é direcionado principalmente para:
-
-- Jovens e estudantes;
-- Usuários de redes sociais;
-- Usuários de WhatsApp;
-- Pessoas com pouca familiaridade com tecnologia;
-- Familiares e educadores;
-- Pessoas interessadas em segurança digital.
+Dicas práticas para aumentar a segurança no ambiente digital.
 
 ---
 
-## 🎮 Como funciona
+## 🎨 Design
 
-```text
-ENTRAR NO VERIFICA
-        ↓
-CONHECER O TEMA
-        ↓
-TESTAR SEUS CONHECIMENTOS
-        ↓
-IDENTIFICAR SINAIS
-        ↓
-RECEBER O RESULTADO
-        ↓
-APRENDER A SE PROTEGER
-```
+O projeto utiliza uma identidade visual inspirada em **tecnologia, segurança e cidadania digital**.
+
+### Paleta de cores
+
+| Cor | Código | Uso |
+|---|---|---|
+| Azul escuro | `#0B132B` | Fundo |
+| Azul | `#3A86FF` | Destaques |
+| Verde | `#2ECC71` | Segurança |
+| Amarelo | `#FFB703` | Alertas |
+| Vermelho | `#FF5C5C` | Riscos |
+| Branco | `#F8F9FA` | Textos |
+
+O layout foi desenvolvido para ser:
+
+- Moderno
+- Responsivo
+- Intuitivo
+- Educativo
+- Acessível
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-| Tecnologia | Utilização |
-|---|---|
-| HTML5 | Estrutura da aplicação |
-| CSS3 | Estilização e responsividade |
-| JavaScript | Interações e lógica da aplicação |
-| Git | Versionamento |
-| GitHub | Hospedagem e documentação |
-| GitHub Pages | Deploy |
+- **HTML5** — estrutura da aplicação
+- **CSS3** — estilização e responsividade
+- **JavaScript** — interações e lógica
+- **Git** — versionamento
+- **GitHub** — armazenamento e gerenciamento do código
 
 ---
 
-## 📂 Estrutura do projeto
+## 📁 Estrutura do projeto
 
 ```text
 verifica/
@@ -143,138 +136,127 @@ verifica/
 ├── index.html
 ├── style.css
 ├── script.js
+├── README.md
 │
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-└── README.md
+└── assets/
+    └── imagens e recursos
 ```
 
 ---
 
-## 🚀 Como executar
+## 📱 Responsividade
 
-### 1. Clone o repositório
+O VERIFICA foi desenvolvido para funcionar em diferentes tamanhos de tela:
 
-```bash
-git clone https://github.com/regezxs/verifica.git
-```
+- 💻 Desktop
+- 💻 Notebook
+- 📱 Smartphone
+- 📲 Tablet
 
-### 2. Acesse a pasta
-
-```bash
-cd verifica
-```
-
-### 3. Execute o projeto
-
-Abra o arquivo:
-
-```text
-index.html
-```
-
-O projeto também poderá ser acessado através do **GitHub Pages**.
+O layout utiliza **CSS responsivo** para adaptar os elementos conforme o tamanho da tela.
 
 ---
 
-## 🎨 Interface
+## ♿ Acessibilidade
 
-### Página inicial
+Foram considerados princípios básicos de acessibilidade durante o desenvolvimento, incluindo:
 
-> Em desenvolvimento.
-
-### Quiz
-
-> Em desenvolvimento.
-
-### Resultado
-
-> Em desenvolvimento.
-
-### Guia de segurança
-
-> Em desenvolvimento.
-
----
-
-## 📊 Dados e fontes
-
-As informações apresentadas no projeto serão baseadas em fontes públicas e instituições reconhecidas, buscando evitar a disseminação de informações incorretas.
-
-Entre as fontes utilizadas poderão estar:
-
-- Governo Federal;
-- CERT.br;
-- Banco Central do Brasil;
-- Polícia Federal;
-- Instituições de pesquisa;
-- Organizações de checagem de fatos.
-
-As fontes serão apresentadas junto aos dados utilizados no projeto.
+- Contraste entre elementos
+- Navegação clara
+- Estados de foco
+- Textos objetivos
+- Estrutura semântica
+- Compatibilidade com diferentes tamanhos de tela
 
 ---
 
 ## 🔐 Segurança e responsabilidade
 
-O **VERIFICA possui finalidade educativa** e não substitui orientações oficiais de instituições financeiras, órgãos públicos ou autoridades competentes.
+O VERIFICA possui finalidade **educativa e preventiva**.
 
-Em situações reais de fraude ou golpe, procure os canais oficiais da instituição envolvida e, quando necessário, registre uma ocorrência.
+O projeto não solicita informações pessoais, senhas, documentos, dados bancários ou qualquer informação sensível do usuário.
 
----
-
-## 📈 Roadmap
-
-- [x] Definição do problema
-- [x] Planejamento do projeto
-- [x] Definição do público-alvo
-- [x] Definição das funcionalidades
-- [ ] Criar identidade visual
-- [ ] Desenvolver landing page
-- [ ] Desenvolver quiz
-- [ ] Criar sistema de pontuação
-- [ ] Criar seção sobre IA e deepfakes
-- [ ] Criar seção de prevenção
-- [ ] Implementar responsividade
-- [ ] Realizar testes
-- [ ] Publicar no GitHub Pages
-- [ ] Testar com usuários
-- [ ] Melhorar acessibilidade
+As situações apresentadas no simulador são fictícias e utilizadas exclusivamente para fins educacionais.
 
 ---
 
-## 📚 Aprendizados
+## 📚 Fontes e referências
 
-O desenvolvimento do **VERIFICA** tem como objetivo colocar em prática conhecimentos de:
+O conteúdo educativo foi desenvolvido com base em materiais e informações de instituições e organizações relacionadas à segurança digital, tecnologia e verificação de informações.
 
-- Desenvolvimento Web;
-- HTML;
-- CSS;
-- JavaScript;
-- Lógica de programação;
-- Manipulação do DOM;
-- Responsividade;
-- Experiência do usuário;
-- Organização de projetos;
-- Git e GitHub;
-- Segurança digital;
-- Pesquisa e análise de informações.
+Entre as referências utilizadas estão:
+
+- CGI.br / Cetic.br
+- Agência Lupa
+- ANATEL
+- ANPD
+- Serasa Experian
+
+As fontes são utilizadas para contextualizar os dados e reforçar a importância da verificação de informações.
 
 ---
 
-## 🌱 Próximos passos
+## 🧠 Aprendizados
 
-Futuramente, o projeto poderá receber:
+O desenvolvimento do VERIFICA permitiu praticar diferentes conhecimentos, incluindo:
 
-- Integração com APIs;
-- Mais situações interativas;
-- Sistema de níveis;
-- Melhorias de acessibilidade;
-- Modo escuro;
-- Novos conteúdos educativos;
-- Dashboard com dados;
-- Recursos relacionados à identificação de conteúdos manipulados por IA.
+- Desenvolvimento Front-end
+- HTML semântico
+- CSS responsivo
+- JavaScript
+- Manipulação do DOM
+- Eventos em JavaScript
+- Estruturação de interfaces
+- Experiência do usuário
+- Git e GitHub
+- Organização de projetos
+- Pesquisa e validação de informações
+- Educação e segurança digital
+
+Além da parte técnica, o projeto também trabalhou a capacidade de **transformar um problema cotidiano em uma solução digital simples e acessível**.
+
+---
+
+## 🚀 Próximos passos
+
+Algumas ideias para futuras versões:
+
+- 🔍 Análise de mensagens suspeitas
+- 🔗 Verificação automática de URLs
+- 🤖 Recursos de IA para análise de conteúdo
+- 📚 Banco de dados de golpes conhecidos
+- 📊 Dashboard com dados sobre golpes
+- 👤 Sistema de usuários e progresso
+- 🏆 Ranking do quiz
+- 📱 Transformação em PWA
+- 🌙 Modo claro/escuro
+- ⚙️ Desenvolvimento de backend
+
+---
+
+## 💻 Execução local
+
+Para executar o projeto, basta clonar o repositório e abrir o arquivo `index.html` no navegador.
+
+```bash
+git clone https://github.com/regezxs/verifica.git
+cd verifica
+```
+
+Depois, abra:
+
+```text
+index.html
+```
+
+O projeto foi desenvolvido para funcionar diretamente no navegador, **sem necessidade de servidor ou banco de dados**.
+
+---
+
+## 📂 Repositório
+
+🔗 **GitHub:**  
+https://github.com/regezxs/verifica
 
 ---
 
@@ -282,20 +264,14 @@ Futuramente, o projeto poderá receber:
 
 **Letícia Reges**
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, interessada em desenvolvimento de sistemas, tecnologia e soluções que utilizem a programação para resolver problemas reais.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com interesse em desenvolvimento de sistemas, tecnologia, dados, automação e inovação.
 
-🔗 **GitHub:** [regezxs](https://github.com/regezxs)
+Este projeto faz parte da construção do meu portfólio acadêmico e profissional.
 
 ---
 
 ## 📄 Licença
 
-Este projeto está disponível para fins educacionais e de portfólio.
+Este projeto foi desenvolvido para fins **educacionais e de portfólio**.
 
----
-
-<p align="center">
-  🛡️ <strong>VERIFICA</strong>
-  <br>
-  <i>Antes de compartilhar, verifique.</i>
-</p>
+© 2026 Letícia Reges
